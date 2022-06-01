@@ -1,0 +1,16 @@
+body {
+  background-color: #f7f8fc;
+
+  /* background-image: linear-gradient(
+    to bottom,
+    #e6eefb,
+    #ebf0fb,
+    #eff3fc,
+    #f3f5fc,
+    #f7f8fc
+  ); */
+}
+
+* {
+  font-family: "Heebo", sans-serif !important;
+}
